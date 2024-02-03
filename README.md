@@ -5,7 +5,7 @@ I am interested in machine learning and forecasting.
 I prefer freelancing, but I am open to any offers.  
 
 Databases:  
-PostgreSQ  
+PostgreSQL  
 
 Data Science:  
 Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Scikit-learn, CatBoost, TensorFlow, Keras
